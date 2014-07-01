@@ -5,3 +5,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Now the project is on github.
 Creating a new branch is quick and simple.
+Now we will ban fast forword mod.
